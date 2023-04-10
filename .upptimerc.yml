@@ -196,8 +196,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /3nt-upptime
   logoUrl: https://raw.githubusercontent.com/Altair47/3nt-upptime/master/assets/3ntas.svg
-  name: 3nt-upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Uptime Monitor
+  introTitle: "Uptime monitor powered by Github Actions."
   introMessage: More info at (https://github.com/upptime/upptime)
   navbar:
     - title: Status
