@@ -81,8 +81,6 @@ sites:
     url: https://paradeigmatos-harin.gr
   - name: Pastel Yachting
     url: https://pastelyachting.gr
-  - name: Playdays
-    url: https://playdays.gr
   - name: PMI Projects
     url: https://pmiprojects.gr
   - name: Primo Gusto EU
@@ -90,9 +88,9 @@ sites:
   - name: Primo Gusto
     url: https://primogusto.gr
   - name: Priority Cyprus
-    url: https://priority.com.cy
+    url: https://www.priority.com.cy
   - name: Priority Greece
-    url: https://priority.com.gr
+    url: https://www.priority.com.gr
   - name: Reach-Cheree
     url: https://reach-cheree.gr
   - name: Samaras Mining
