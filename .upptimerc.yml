@@ -3,14 +3,192 @@ owner: Altair47 # Your GitHub organization or username, where this repository li
 repo: 3nt-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 3EMixItUp
+    url: https://3emixitup.gr
+  - name: 3nitas
+    url: https://3nitas.com
+  - name: 3ntxp
+    url: https://3ntxp.com
+  - name: Afis
+    url: https://afis.gr
+  - name: Afis Kinigoi
+    url: https://afis-kinigoi.gr
+  - name: Alfa Beer
+    url: https://alfabeer.gr
+  - name: Antenna Group
+    url: https://antenna-group.com
+  - name: Antonis Fousas
+    url: https://antonisfousas.gr
+  - name: Aperol Orange Parties
+    url: https://aperolorangeparties.gr
+  - name: Aperol Spritz Joy
+    url: https://aperolspritzjoy.gr
+  - name: Aperol Spritz The Joy in Statest
+    url: https://aperolspritzthejoyinstatest.gr
+  - name: Arjuna Maritime
+    url: https://arjunamaritime.id
+  - name: Barilla Masterclass
+    url: https://barillamasterclass.gr
+  - name: Barilla Master of Dinner
+    url: https://barillamasterofdinner.gr
+  - name: BBB Club
+    url: https://bbbclub.gr
+  - name: Blinqme
+    url: https://blinqme.com
+  - name: Bobbi Brown Beauty Club
+    url: https://bobbibrownbeautyclub.gr
+  - name: Box of Joy
+    url: https://boxofjoy.gr
+  - name: Breast Imaging
+    url: https://breastimaging.gr
+  - name: Campari Passion
+    url: https://camparipassion.gr
+  - name: Caprice Papadopoulou
+    url: https://capricepapadopoulou.gr
+  - name: Digalakis
+    url: https://digalakis.tuc.gr
+  - name: e-Audit Reach Cheree
+    url: https://e-audit.reach-cheree.gr
+  - name: e-Business Forum
+    url: https://ebusiness-forum.gr
+  - name: e-Inspection Reach Cheree
+    url: https://e-inspection.reach-cheree.gr
+  - name: Elekap
+    url: https://elekap.org
+  - name: EOS Systems
+    url: https://eos-systems.gr
+  - name: Epsilon Hellas
+    url: https://epsilonhellas.com
+  - name: Epsilon Hellas Ukraine
+    url: https://epsilonhellas.com.ua
+  - name: Epsilon Odessa
+    url: https://epsilonodessa.com.ua
+  - name: 3nitas eShop
+    url: https://eshop.threenitas.com
+  - name: Expedite
+    url: https://expedite.gr
+  - name: Fischer Beer
+    url: https://fischerbeer.gr
+  - name: Folloe Foundation
+    url: https://folloefoundation.com
+  - name: Gerofinikas Boutique Hotel
+    url: https://gerofinikasboutiquehotel.com
+  - name: Gran cereale contest
+    url: https://grancerealecontest.gr
+  - name: Gran cereale mini meals
+    url: https://grancerealeminimeals.gr
+  - name: NBA Greece
+    url: https://greece.id.nba.com
+  - name: Hazmat
+    url: https://hazmat.gr
+  - name: IGI Poseidon
+    url: https://igi-poseidon.com
+  - name: Illy Iper Apartment
+    url: https://illyiperapartment.gr
+  - name: Karelia
+    url: https://karelia.gr
+  - name: Kore
+    url: https://kore.gr
+  - name: Let's Place
+    url: https://letsplace.gr
+  - name: Loukakou Family
+    url: https://loukakoufamily.gr
+  - name: Magiki Xora
+    url: https://magikixora.gr
+  - name: Mail Delivery
+    url: https://maildelivery.gr
+  - name: Mamos
+    url: https://mamos.gr
+  - name: Mastercard Bot
+    url: https://mastercardbot.gr
+  - name: Master of Dinner
+    url: https://masterofdinner.gr
+  - name: Master of the Game
+    url: https://masterofthegame.gr
+  - name: Master Shoppers
+    url: https://mastershoppers.gr
+  - name: Milies Ilia's
+    url: https://miliesilias.gr
+  - name: Moods843
+    url: https://moods843.com
+  - name: MPD
+    url: https://mpd.gr
+  - name: Myritmeester
+    url: https://myritmeester.nl
+  - name: Myritmeester Cms Version
+    url: https://myritmeester.nl/umbraco/api/monitor/CmsVersion
+  - name: NBA Fan Club
+    url: https://nbafanclub.gr
+  - name: Night is a Mix
+    url: https://nightisamix.gr
+  - name: Olympia Group Quiz
+    url: https://olympiagroupquiz.com
+  - name: oseven
+    url: https://oseven.io
+  - name: OTE Academy
+    url: https://oteacademy.gr
+  - name: Papadopoulou
+    url: https://papadopoulou.gr
+  - name: Paradeigmatos Harin
+    url: https://paradeigmatos-harin.gr
+  - name: Pastel Yachting
+    url: https://pastelyachting.gr
+  - name: Playdays
+    url: https://playdays.gr
+  - name: PMI Projects
+    url: https://pmiprojects.gr
+  - name: Primo Gusto EU
+    url: https://primogusto.eu
+  - name: Primo Gusto
+    url: https://primogusto.gr
+  - name: Priority Cyprus
+    url: https://priority.com.cy
+  - name: Priority Greece
+    url: https://priority.com.gr
+  - name: Reach-Cheree
+    url: https://reach-cheree.gr
+  - name: Samaras Mining
+    url: https://samarasmining.com
+  - name: Sanola
+    url: https://sanola.gr
+  - name: Southbridge Partners
+    url: https://southbridge-partners.com
+  - name: The Circle Group App
+    url: https://thecirclegroupapp.com
+  - name: The Jungle Ad
+    url: https://thejunglead.com
+  - name: The Shipping Project
+    url: https://theshippingproject.com
+  - name: Three Cents
+    url: https://threecents.com
+  - name: 3Nitas
+    url: https://threenitas.com
+  - name: To Prasinóspiti
+    url: https://toprasinospiti.gr
+  - name: Tothama
+    url: https://tothama.gr
+  - name: Tourism 4 All 2021
+    url: https://tourism4all2021.gr
+  - name: Veritas MTC
+    url: https://veritasmtc.com
+  - name: Veritas MTC Philippines
+    url: https://veritasmtc.com.ph
+  - name: VIVANOVICH
+    url: https://vivanovich.com.ua
+  - name: VMG
+    url: https://vmg.gr
+  - name: White Coast
+    url: https://whitecoast.gr
+  - name: Alfa Beer
+    url: https://www.alfabeer.gr
+  - name: Illy Iper Apartment
+    url: https://www.illyiperapartment.gr
+  - name: Priority
+    url: https://www.priority.com.gr
+  - name: Xriselia
+    url: https://xriselia.gr
+  - name: Zerris
+    url: https://zerris.gr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +198,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Altair47/3nt-upptime/master/assets/3ntas.svg
   name: 3nt-upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: More info at: https://github.com/upptime/upptime
   navbar:
     - title: Status
       href: /
