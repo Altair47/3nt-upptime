@@ -3,8 +3,6 @@ owner: Altair47 # Your GitHub organization or username, where this repository li
 repo: 3nt-upptime # The name of this repository
 
 sites:
-  - name: 3EMixItUp
-    url: https://3emixitup.gr
   - name: 3nitas
     url: https://3nitas.com
   - name: 3ntxp
@@ -19,40 +17,14 @@ sites:
     url: https://antenna-group.com
   - name: Antonis Fousas
     url: https://antonisfousas.gr
-  - name: Aperol Orange Parties
-    url: https://aperolorangeparties.gr
-  - name: Aperol Spritz Joy
-    url: https://aperolspritzjoy.gr
-  - name: Aperol Spritz The Joy in Statest
-    url: https://aperolspritzthejoyinstatest.gr
   - name: Arjuna Maritime
     url: https://arjunamaritime.id
-  - name: Barilla Masterclass
-    url: https://barillamasterclass.gr
-  - name: Barilla Master of Dinner
-    url: https://barillamasterofdinner.gr
-  - name: BBB Club
-    url: https://bbbclub.gr
   - name: Blinqme
     url: https://blinqme.com
-  - name: Bobbi Brown Beauty Club
-    url: https://bobbibrownbeautyclub.gr
-  - name: Box of Joy
-    url: https://boxofjoy.gr
   - name: Breast Imaging
     url: https://breastimaging.gr
   - name: Campari Passion
     url: https://camparipassion.gr
-  - name: Caprice Papadopoulou
-    url: https://capricepapadopoulou.gr
-  - name: Digalakis
-    url: https://digalakis.tuc.gr
-  - name: e-Audit Reach Cheree
-    url: https://e-audit.reach-cheree.gr
-  - name: e-Business Forum
-    url: https://ebusiness-forum.gr
-  - name: e-Inspection Reach Cheree
-    url: https://e-inspection.reach-cheree.gr
   - name: Elekap
     url: https://elekap.org
   - name: EOS Systems
@@ -69,14 +41,8 @@ sites:
     url: https://expedite.gr
   - name: Fischer Beer
     url: https://fischerbeer.gr
-  - name: Folloe Foundation
-    url: https://folloefoundation.com
   - name: Gerofinikas Boutique Hotel
     url: https://gerofinikasboutiquehotel.com
-  - name: Gran cereale contest
-    url: https://grancerealecontest.gr
-  - name: Gran cereale mini meals
-    url: https://grancerealeminimeals.gr
   - name: NBA Greece
     url: https://greece.id.nba.com
   - name: Hazmat
@@ -93,36 +59,18 @@ sites:
     url: https://letsplace.gr
   - name: Loukakou Family
     url: https://loukakoufamily.gr
-  - name: Magiki Xora
-    url: https://magikixora.gr
   - name: Mail Delivery
     url: https://maildelivery.gr
   - name: Mamos
     url: https://mamos.gr
-  - name: Mastercard Bot
-    url: https://mastercardbot.gr
-  - name: Master of Dinner
-    url: https://masterofdinner.gr
-  - name: Master of the Game
-    url: https://masterofthegame.gr
-  - name: Master Shoppers
-    url: https://mastershoppers.gr
   - name: Milies Ilia's
     url: https://miliesilias.gr
-  - name: Moods843
-    url: https://moods843.com
   - name: MPD
     url: https://mpd.gr
   - name: Myritmeester
     url: https://myritmeester.nl
-  - name: Myritmeester Cms Version
-    url: https://myritmeester.nl/umbraco/api/monitor/CmsVersion
   - name: NBA Fan Club
     url: https://nbafanclub.gr
-  - name: Night is a Mix
-    url: https://nightisamix.gr
-  - name: Olympia Group Quiz
-    url: https://olympiagroupquiz.com
   - name: oseven
     url: https://oseven.io
   - name: OTE Academy
