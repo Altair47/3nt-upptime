@@ -454,18 +454,20 @@
     "url": "https://kore.gr",
     "icon": "https://icons.duckduckgo.com/ip3/kore.gr.ico",
     "slug": "kore",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 7390,
     "timeDay": 9087,
     "timeWeek": 8278,
     "timeMonth": 7390,
     "timeYear": 7390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-01": 3
+    }
   },
   {
     "name": "Let's Place",
@@ -1044,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 70,
+      "2023-05-01": 226,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
