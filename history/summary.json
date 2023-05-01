@@ -454,19 +454,19 @@
     "url": "https://kore.gr",
     "icon": "https://icons.duckduckgo.com/ip3/kore.gr.ico",
     "slug": "kore",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 7390,
-    "timeDay": 9087,
-    "timeWeek": 8278,
-    "timeMonth": 7390,
-    "timeYear": 7390,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 7430,
+    "timeDay": 8779,
+    "timeWeek": 8302,
+    "timeMonth": 7430,
+    "timeYear": 7430,
     "dailyMinutesDown": {
-      "2023-05-01": 3
+      "2023-05-01": 11
     }
   },
   {
@@ -1046,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 226,
+      "2023-05-01": 235,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
