@@ -526,18 +526,20 @@
     "url": "https://mamos.gr",
     "icon": "https://icons.duckduckgo.com/ip3/mamos.gr.ico",
     "slug": "mamos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6401,
-    "timeDay": 6393,
-    "timeWeek": 6685,
-    "timeMonth": 6401,
-    "timeYear": 6401,
-    "dailyMinutesDown": {}
+    "time": 6278,
+    "timeDay": 4615,
+    "timeWeek": 6204,
+    "timeMonth": 6278,
+    "timeYear": 6278,
+    "dailyMinutesDown": {
+      "2023-05-03": 1
+    }
   },
   {
     "name": "Milies Ilia's",
@@ -1044,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-03": 65,
+      "2023-05-03": 100,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -1183,18 +1185,20 @@
     "url": "https://xriselia.gr",
     "icon": "https://icons.duckduckgo.com/ip3/xriselia.gr.ico",
     "slug": "xriselia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8649,
-    "timeDay": 8648,
-    "timeWeek": 9003,
-    "timeMonth": 8649,
-    "timeYear": 8649,
-    "dailyMinutesDown": {}
+    "time": 8375,
+    "timeDay": 4670,
+    "timeWeek": 7964,
+    "timeMonth": 8375,
+    "timeYear": 8375,
+    "dailyMinutesDown": {
+      "2023-05-03": 1
+    }
   },
   {
     "name": "Zerris",
