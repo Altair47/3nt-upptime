@@ -998,10 +998,10 @@
     "url": "https://tourism4all2021.gr",
     "icon": "https://icons.duckduckgo.com/ip3/tourism4all2021.gr.ico",
     "slug": "tourism-4-all-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
@@ -1009,7 +1009,9 @@
     "timeWeek": 565,
     "timeMonth": 572,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 1
+    }
   },
   {
     "name": "Veritas MTC",
@@ -1046,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-06": 61,
+      "2023-05-06": 97,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
