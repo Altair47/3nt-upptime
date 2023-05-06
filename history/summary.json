@@ -22,18 +22,20 @@
     "url": "https://3ntxp.com",
     "icon": "https://icons.duckduckgo.com/ip3/3ntxp.com.ico",
     "slug": "3ntxp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 546,
     "timeDay": 394,
     "timeWeek": 597,
     "timeMonth": 546,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 11
+    }
   },
   {
     "name": "Afis",
@@ -77,35 +79,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/alfabeer.gr.ico",
     "slug": "alfa-beer",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3548,
-    "timeDay": 3980,
-    "timeWeek": 3826,
-    "timeMonth": 3548,
-    "timeYear": 3548,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3576,
+    "timeDay": 4434,
+    "timeWeek": 3927,
+    "timeMonth": 3576,
+    "timeYear": 3576,
+    "dailyMinutesDown": {
+      "2023-05-06": 9
+    }
   },
   {
     "name": "Antenna Group",
     "url": "https://antenna-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/antenna-group.com.ico",
     "slug": "antenna-group",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 867,
     "timeDay": 681,
     "timeWeek": 949,
     "timeMonth": 867,
     "timeYear": 867,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 9
+    }
   },
   {
     "name": "Antonis Fousas",
@@ -238,36 +244,40 @@
     "url": "https://epsilonhellas.com",
     "icon": "https://icons.duckduckgo.com/ip3/epsilonhellas.com.ico",
     "slug": "epsilon-hellas",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2924,
     "timeDay": 2350,
     "timeWeek": 2914,
     "timeMonth": 2924,
     "timeYear": 2924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 7
+    }
   },
   {
     "name": "Epsilon Hellas Ukraine",
     "url": "https://epsilonhellas.com.ua",
     "icon": "https://icons.duckduckgo.com/ip3/epsilonhellas.com.ua.ico",
     "slug": "epsilon-hellas-ukraine",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2622,
     "timeDay": 2103,
     "timeWeek": 2549,
     "timeMonth": 2622,
     "timeYear": 2622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 7
+    }
   },
   {
     "name": "Epsilon Odessa",
@@ -346,18 +356,20 @@
     "url": "https://gerofinikasboutiquehotel.com",
     "icon": "https://icons.duckduckgo.com/ip3/gerofinikasboutiquehotel.com.ico",
     "slug": "gerofinikas-boutique-hotel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3056,
     "timeDay": 2024,
     "timeWeek": 3626,
     "timeMonth": 3056,
     "timeYear": 3056,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 5
+    }
   },
   {
     "name": "NBA Greece",
@@ -999,18 +1011,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourism4all2021.gr.ico",
     "slug": "tourism-4-all-2021",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.47%",
+    "uptimeDay": "60.53%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
     "time": 572,
     "timeDay": 450,
     "timeWeek": 565,
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2023-05-06": 1
+      "2023-05-06": 568
     }
   },
   {
@@ -1048,7 +1060,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-06": 97,
+      "2023-05-06": 664,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
@@ -1137,17 +1149,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alfabeer.gr.ico",
     "slug": "alfa-beer",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3548,
-    "timeDay": 3980,
-    "timeWeek": 3826,
-    "timeMonth": 3548,
-    "timeYear": 3548,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3576,
+    "timeDay": 4434,
+    "timeWeek": 3927,
+    "timeMonth": 3576,
+    "timeYear": 3576,
+    "dailyMinutesDown": {
+      "2023-05-06": 9
+    }
   },
   {
     "name": "Illy Iper Apartment",
@@ -1191,11 +1205,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xriselia.gr.ico",
     "slug": "xriselia",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 8429,
     "timeDay": 6355,
     "timeWeek": 7814,
