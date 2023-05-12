@@ -172,19 +172,19 @@
     "url": "https://breastimaging.gr",
     "icon": "https://icons.duckduckgo.com/ip3/breastimaging.gr.ico",
     "slug": "breast-imaging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3289,
-    "timeDay": 4938,
-    "timeWeek": 3256,
-    "timeMonth": 3281,
-    "timeYear": 3289,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3310,
+    "timeDay": 4534,
+    "timeWeek": 3353,
+    "timeMonth": 3306,
+    "timeYear": 3310,
     "dailyMinutesDown": {
-      "2023-05-12": 2
+      "2023-05-12": 13
     }
   },
   {
@@ -1036,7 +1036,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-12": 565,
+      "2023-05-12": 578,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
