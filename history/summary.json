@@ -172,10 +172,10 @@
     "url": "https://breastimaging.gr",
     "icon": "https://icons.duckduckgo.com/ip3/breastimaging.gr.ico",
     "slug": "breast-imaging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3289,
@@ -183,7 +183,9 @@
     "timeWeek": 3256,
     "timeMonth": 3281,
     "timeYear": 3289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-12": 2
+    }
   },
   {
     "name": "Campari Passion",
@@ -1034,7 +1036,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-12": 65,
+      "2023-05-12": 565,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
