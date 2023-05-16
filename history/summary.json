@@ -588,18 +588,20 @@
     "url": "https://myritmeester.nl",
     "icon": "https://icons.duckduckgo.com/ip3/myritmeester.nl.ico",
     "slug": "myritmeester",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 435,
-    "timeWeek": 461,
-    "timeMonth": 515,
-    "timeYear": 512,
-    "dailyMinutesDown": {}
+    "time": 577,
+    "timeDay": 1860,
+    "timeWeek": 814,
+    "timeMonth": 596,
+    "timeYear": 577,
+    "dailyMinutesDown": {
+      "2023-05-16": 2
+    }
   },
   {
     "name": "NBA Fan Club",
@@ -1034,7 +1036,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-16": 66,
+      "2023-05-16": 1377,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
