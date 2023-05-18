@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/afis.gr.ico",
     "slug": "afis",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 2670,
     "timeDay": 1825,
-    "timeWeek": 2202,
+    "timeWeek": 2368,
     "timeMonth": 2575,
     "timeYear": 2670,
     "dailyMinutesDown": {
-      "2023-05-18": 13,
       "2023-05-11": 16
     }
   },
@@ -64,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/afis-kinigoi.gr.ico",
     "slug": "afis-kinigoi",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6749,
     "timeDay": 7642,
     "timeWeek": 7219,
     "timeMonth": 6749,
     "timeYear": 6749,
-    "dailyMinutesDown": {
-      "2023-05-18": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alfa Beer",
@@ -122,19 +119,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/antonisfousas.gr.ico",
     "slug": "antonis-fousas",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1807,
     "timeDay": 1301,
     "timeWeek": 1994,
     "timeMonth": 1805,
     "timeYear": 1807,
-    "dailyMinutesDown": {
-      "2023-05-18": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arjuna Maritime",
@@ -411,18 +406,20 @@
     "url": "https://igi-poseidon.com",
     "icon": "https://icons.duckduckgo.com/ip3/igi-poseidon.com.ico",
     "slug": "igi-poseidon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 724,
-    "timeWeek": 540,
-    "timeMonth": 671,
-    "timeYear": 661,
-    "dailyMinutesDown": {}
+    "time": 649,
+    "timeDay": 429,
+    "timeWeek": 482,
+    "timeMonth": 653,
+    "timeYear": 649,
+    "dailyMinutesDown": {
+      "2023-05-18": 2
+    }
   },
   {
     "name": "Illy Iper Apartment",
@@ -1041,7 +1038,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 700,
+      "2023-05-18": 1279,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
