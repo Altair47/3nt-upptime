@@ -680,36 +680,40 @@
     "url": "https://paradeigmatos-harin.gr",
     "icon": "https://icons.duckduckgo.com/ip3/paradeigmatos-harin.gr.ico",
     "slug": "paradeigmatos-harin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1390,
-    "timeDay": 1290,
-    "timeWeek": 1221,
-    "timeMonth": 1439,
-    "timeYear": 1390,
-    "dailyMinutesDown": {}
+    "time": 1948,
+    "timeDay": 14464,
+    "timeWeek": 4995,
+    "timeMonth": 2284,
+    "timeYear": 1948,
+    "dailyMinutesDown": {
+      "2023-05-19": 2
+    }
   },
   {
     "name": "Pastel Yachting",
     "url": "https://pastelyachting.gr",
     "icon": "https://icons.duckduckgo.com/ip3/pastelyachting.gr.ico",
     "slug": "pastel-yachting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4726,
-    "timeDay": 6614,
-    "timeWeek": 4488,
-    "timeMonth": 5238,
-    "timeYear": 4726,
-    "dailyMinutesDown": {}
+    "time": 4642,
+    "timeDay": 3679,
+    "timeWeek": 3953,
+    "timeMonth": 5093,
+    "timeYear": 4642,
+    "dailyMinutesDown": {
+      "2023-05-19": 1
+    }
   },
   {
     "name": "PMI Projects",
@@ -1036,7 +1040,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 66,
+      "2023-05-19": 330,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
