@@ -680,19 +680,19 @@
     "url": "https://paradeigmatos-harin.gr",
     "icon": "https://icons.duckduckgo.com/ip3/paradeigmatos-harin.gr.ico",
     "slug": "paradeigmatos-harin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1948,
-    "timeDay": 14464,
-    "timeWeek": 4995,
-    "timeMonth": 2284,
-    "timeYear": 1948,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1930,
+    "timeDay": 9996,
+    "timeWeek": 4503,
+    "timeMonth": 2246,
+    "timeYear": 1930,
     "dailyMinutesDown": {
-      "2023-05-19": 2
+      "2023-05-19": 12
     }
   },
   {
@@ -700,19 +700,19 @@
     "url": "https://pastelyachting.gr",
     "icon": "https://icons.duckduckgo.com/ip3/pastelyachting.gr.ico",
     "slug": "pastel-yachting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4642,
-    "timeDay": 3679,
-    "timeWeek": 3953,
-    "timeMonth": 5093,
-    "timeYear": 4642,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 4654,
+    "timeDay": 4203,
+    "timeWeek": 4116,
+    "timeMonth": 5098,
+    "timeYear": 4654,
     "dailyMinutesDown": {
-      "2023-05-19": 1
+      "2023-05-19": 12
     }
   },
   {
@@ -1040,7 +1040,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 330,
+      "2023-05-19": 342,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
