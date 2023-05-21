@@ -462,36 +462,40 @@
     "url": "https://kore.gr",
     "icon": "https://icons.duckduckgo.com/ip3/kore.gr.ico",
     "slug": "kore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7474,
-    "timeDay": 7021,
-    "timeWeek": 7071,
-    "timeMonth": 7678,
-    "timeYear": 7474,
-    "dailyMinutesDown": {}
+    "time": 7674,
+    "timeDay": 12064,
+    "timeWeek": 8504,
+    "timeMonth": 7973,
+    "timeYear": 7674,
+    "dailyMinutesDown": {
+      "2023-05-21": 2
+    }
   },
   {
     "name": "Let's Place",
     "url": "https://letsplace.gr",
     "icon": "https://icons.duckduckgo.com/ip3/letsplace.gr.ico",
     "slug": "let-s-place",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2236,
-    "timeDay": 2148,
-    "timeWeek": 2266,
-    "timeMonth": 2213,
-    "timeYear": 2236,
-    "dailyMinutesDown": {}
+    "time": 2204,
+    "timeDay": 1440,
+    "timeWeek": 2047,
+    "timeMonth": 2165,
+    "timeYear": 2204,
+    "dailyMinutesDown": {
+      "2023-05-21": 2
+    }
   },
   {
     "name": "Loukakou Family",
@@ -1038,7 +1042,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-21": 70,
+      "2023-05-21": 424,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
