@@ -922,19 +922,19 @@
     "url": "https://theshippingproject.com",
     "icon": "https://icons.duckduckgo.com/ip3/theshippingproject.com.ico",
     "slug": "the-shipping-project",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2858,
-    "timeDay": 5606,
-    "timeWeek": 3864,
-    "timeMonth": 2681,
-    "timeYear": 2858,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "79.40%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.51%",
+    "time": 2807,
+    "timeDay": 3022,
+    "timeWeek": 3374,
+    "timeMonth": 2609,
+    "timeYear": 2807,
     "dailyMinutesDown": {
-      "2023-05-22": 1
+      "2023-05-22": 297
     }
   },
   {
@@ -1044,7 +1044,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 645,
+      "2023-05-22": 941,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
