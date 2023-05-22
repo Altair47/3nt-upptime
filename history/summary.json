@@ -444,10 +444,10 @@
     "url": "https://karelia.gr",
     "icon": "https://icons.duckduckgo.com/ip3/karelia.gr.ico",
     "slug": "karelia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1566,
@@ -455,7 +455,9 @@
     "timeWeek": 1542,
     "timeMonth": 1606,
     "timeYear": 1566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 2
+    }
   },
   {
     "name": "Kore",
@@ -1044,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 941,
+      "2023-05-22": 1215,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
