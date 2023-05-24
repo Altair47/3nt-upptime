@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/antenna-group.com.ico",
     "slug": "antenna-group",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 854,
     "timeDay": 952,
     "timeWeek": 902,
@@ -282,10 +282,10 @@
     "url": "https://epsilonodessa.com.ua",
     "icon": "https://icons.duckduckgo.com/ip3/epsilonodessa.com.ua.ico",
     "slug": "epsilon-odessa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1117,
@@ -293,7 +293,9 @@
     "timeWeek": 934,
     "timeMonth": 782,
     "timeYear": 1117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-24": 2
+    }
   },
   {
     "name": "3nitas eShop",
@@ -1046,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 68,
+      "2023-05-24": 651,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
