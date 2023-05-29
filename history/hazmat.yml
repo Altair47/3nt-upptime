@@ -1,7 +1,7 @@
 url: https://hazmat.gr
-status: up
-code: 200
-responseTime: 4719
-lastUpdated: 2023-05-29T02:54:27.437Z
+status: down
+code: 500
+responseTime: 718
+lastUpdated: 2023-05-29T10:04:02.538Z
 startTime: Mon Apr 10 2023 14:45:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
