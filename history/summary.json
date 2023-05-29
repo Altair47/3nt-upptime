@@ -4,19 +4,19 @@
     "url": "https://3nitas.com",
     "icon": "https://icons.duckduckgo.com/ip3/3nitas.com.ico",
     "slug": "3nitas",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 524,
     "timeDay": 1506,
     "timeWeek": 825,
     "timeMonth": 576,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2023-05-29": 19
+      "2023-05-29": 39
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://3ntxp.com",
     "icon": "https://icons.duckduckgo.com/ip3/3ntxp.com.ico",
     "slug": "3ntxp",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.92%",
     "time": 542,
     "timeDay": 601,
     "timeWeek": 581,
     "timeMonth": 550,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2023-05-29": 18,
+      "2023-05-29": 37,
       "2023-05-06": 17
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://afis.gr",
     "icon": "https://icons.duckduckgo.com/ip3/afis.gr.ico",
     "slug": "afis",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.93%",
     "time": 2823,
     "timeDay": 3107,
     "timeWeek": 3539,
     "timeMonth": 2852,
     "timeYear": 2823,
     "dailyMinutesDown": {
-      "2023-05-29": 18,
+      "2023-05-29": 36,
       "2023-05-11": 16
     }
   },
@@ -66,19 +66,19 @@
     "url": "https://afis-kinigoi.gr",
     "icon": "https://icons.duckduckgo.com/ip3/afis-kinigoi.gr.ico",
     "slug": "afis-kinigoi",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
     "time": 6984,
     "timeDay": 4977,
     "timeWeek": 7947,
     "timeMonth": 7257,
     "timeYear": 6984,
     "dailyMinutesDown": {
-      "2023-05-29": 18
+      "2023-05-29": 34
     }
   },
   {
@@ -87,36 +87,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/alfabeer.gr.ico",
     "slug": "alfa-beer",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3665,
-    "timeDay": 3404,
-    "timeWeek": 4144,
-    "timeMonth": 3814,
-    "timeYear": 3665,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 3651,
+    "timeDay": 3054,
+    "timeWeek": 4010,
+    "timeMonth": 3786,
+    "timeYear": 3651,
+    "dailyMinutesDown": {
+      "2023-05-29": 15
+    }
   },
   {
     "name": "Antenna Group",
     "url": "https://antenna-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/antenna-group.com.ico",
     "slug": "antenna-group",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 861,
     "timeDay": 887,
     "timeWeek": 911,
     "timeMonth": 874,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2023-05-29": 17,
+      "2023-05-29": 32,
       "2023-05-06": 16
     }
   },
@@ -125,19 +127,19 @@
     "url": "https://antonisfousas.gr",
     "icon": "https://icons.duckduckgo.com/ip3/antonisfousas.gr.ico",
     "slug": "antonis-fousas",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 2063,
     "timeDay": 2521,
     "timeWeek": 2917,
     "timeMonth": 2310,
     "timeYear": 2063,
     "dailyMinutesDown": {
-      "2023-05-29": 17
+      "2023-05-29": 30
     }
   },
   {
@@ -145,19 +147,19 @@
     "url": "https://arjunamaritime.id",
     "icon": "https://icons.duckduckgo.com/ip3/arjunamaritime.id.ico",
     "slug": "arjuna-maritime",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 4423,
     "timeDay": 2865,
     "timeWeek": 4434,
     "timeMonth": 4409,
     "timeYear": 4423,
     "dailyMinutesDown": {
-      "2023-05-29": 17
+      "2023-05-29": 28
     }
   },
   {
@@ -165,19 +167,19 @@
     "url": "https://blinqme.com",
     "icon": "https://icons.duckduckgo.com/ip3/blinqme.com.ico",
     "slug": "blinqme",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 3018,
     "timeDay": 2913,
     "timeWeek": 3580,
     "timeMonth": 3176,
     "timeYear": 3018,
     "dailyMinutesDown": {
-      "2023-05-29": 17
+      "2023-05-29": 27
     }
   },
   {
@@ -206,19 +208,19 @@
     "url": "https://camparipassion.gr",
     "icon": "https://icons.duckduckgo.com/ip3/camparipassion.gr.ico",
     "slug": "campari-passion",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 2389,
     "timeDay": 2300,
     "timeWeek": 2722,
     "timeMonth": 2540,
     "timeYear": 2389,
     "dailyMinutesDown": {
-      "2023-05-29": 17
+      "2023-05-29": 25
     }
   },
   {
@@ -226,19 +228,19 @@
     "url": "https://elekap.org",
     "icon": "https://icons.duckduckgo.com/ip3/elekap.org.ico",
     "slug": "elekap",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 741,
     "timeDay": 951,
     "timeWeek": 794,
     "timeMonth": 731,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-05-29": 17
+      "2023-05-29": 23
     }
   },
   {
@@ -246,19 +248,19 @@
     "url": "https://eos-systems.gr",
     "icon": "https://icons.duckduckgo.com/ip3/eos-systems.gr.ico",
     "slug": "eos-systems",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 586,
     "timeDay": 1501,
     "timeWeek": 876,
     "timeMonth": 618,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-05-29": 17
+      "2023-05-29": 22
     }
   },
   {
@@ -266,19 +268,19 @@
     "url": "https://epsilonhellas.com",
     "icon": "https://icons.duckduckgo.com/ip3/epsilonhellas.com.ico",
     "slug": "epsilon-hellas",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 2971,
     "timeDay": 3152,
     "timeWeek": 3220,
     "timeMonth": 3004,
     "timeYear": 2971,
     "dailyMinutesDown": {
-      "2023-05-29": 16
+      "2023-05-29": 20
     }
   },
   {
@@ -286,19 +288,19 @@
     "url": "https://epsilonhellas.com.ua",
     "icon": "https://icons.duckduckgo.com/ip3/epsilonhellas.com.ua.ico",
     "slug": "epsilon-hellas-ukraine",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 2873,
     "timeDay": 2623,
     "timeWeek": 3001,
     "timeMonth": 3045,
     "timeYear": 2873,
     "dailyMinutesDown": {
-      "2023-05-29": 16
+      "2023-05-29": 20
     }
   },
   {
@@ -344,19 +346,19 @@
     "url": "https://expedite.gr",
     "icon": "https://icons.duckduckgo.com/ip3/expedite.gr.ico",
     "slug": "expedite",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 2299,
-    "timeDay": 2256,
-    "timeWeek": 2428,
-    "timeMonth": 2320,
-    "timeYear": 2299,
+    "uptimeYear": "99.97%",
+    "time": 2275,
+    "timeDay": 1923,
+    "timeWeek": 2278,
+    "timeMonth": 2278,
+    "timeYear": 2275,
     "dailyMinutesDown": {
-      "2023-05-29": 15
+      "2023-05-29": 18
     }
   },
   {
@@ -364,19 +366,19 @@
     "url": "https://fischerbeer.gr",
     "icon": "https://icons.duckduckgo.com/ip3/fischerbeer.gr.ico",
     "slug": "fischer-beer",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 2967,
-    "timeDay": 2564,
-    "timeWeek": 2678,
-    "timeMonth": 2891,
-    "timeYear": 2967,
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2925,
+    "timeDay": 2062,
+    "timeWeek": 2466,
+    "timeMonth": 2820,
+    "timeYear": 2925,
     "dailyMinutesDown": {
-      "2023-05-29": 15
+      "2023-05-29": 17
     }
   },
   {
@@ -384,19 +386,19 @@
     "url": "https://gerofinikasboutiquehotel.com",
     "icon": "https://icons.duckduckgo.com/ip3/gerofinikasboutiquehotel.com.ico",
     "slug": "gerofinikas-boutique-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 3069,
-    "timeDay": 3555,
-    "timeWeek": 3790,
-    "timeMonth": 3204,
-    "timeYear": 3069,
+    "time": 3025,
+    "timeDay": 2558,
+    "timeWeek": 3432,
+    "timeMonth": 3124,
+    "timeYear": 3025,
     "dailyMinutesDown": {
-      "2023-05-29": 15
+      "2023-05-29": 17
     }
   },
   {
@@ -422,19 +424,19 @@
     "url": "https://hazmat.gr",
     "icon": "https://icons.duckduckgo.com/ip3/hazmat.gr.ico",
     "slug": "hazmat",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 5561,
-    "timeDay": 3314,
-    "timeWeek": 5094,
-    "timeMonth": 5722,
-    "timeYear": 5561,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
+    "time": 5476,
+    "timeDay": 2665,
+    "timeWeek": 4656,
+    "timeMonth": 5570,
+    "timeYear": 5476,
     "dailyMinutesDown": {
-      "2023-05-29": 15
+      "2023-05-29": 2
     }
   },
   {
@@ -443,19 +445,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/igi-poseidon.com.ico",
     "slug": "igi-poseidon",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 675,
     "timeDay": 1211,
     "timeWeek": 846,
     "timeMonth": 707,
     "timeYear": 675,
-    "dailyMinutesDown": {
-      "2023-05-29": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Illy Iper Apartment",
@@ -464,16 +464,18 @@
     "slug": "illy-iper-apartment",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1990,
-    "timeDay": 1559,
-    "timeWeek": 2153,
-    "timeMonth": 2067,
-    "timeYear": 1990,
-    "dailyMinutesDown": {}
+    "time": 1964,
+    "timeDay": 1222,
+    "timeWeek": 1975,
+    "timeMonth": 2019,
+    "timeYear": 1964,
+    "dailyMinutesDown": {
+      "2023-05-29": 2
+    }
   },
   {
     "name": "Karelia",
@@ -501,18 +503,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kore.gr.ico",
     "slug": "kore",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 7508,
     "timeDay": 7048,
     "timeWeek": 6914,
     "timeMonth": 7624,
     "timeYear": 7508,
     "dailyMinutesDown": {
-      "2023-05-29": 14,
       "2023-05-21": 16
     }
   },
@@ -521,19 +522,19 @@
     "url": "https://letsplace.gr",
     "icon": "https://icons.duckduckgo.com/ip3/letsplace.gr.ico",
     "slug": "let-s-place",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 2244,
-    "timeDay": 3093,
-    "timeWeek": 2496,
-    "timeMonth": 2229,
-    "timeYear": 2244,
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2214,
+    "timeDay": 2446,
+    "timeWeek": 2297,
+    "timeMonth": 2179,
+    "timeYear": 2214,
     "dailyMinutesDown": {
-      "2023-05-29": 14,
+      "2023-05-29": 2,
       "2023-05-21": 16
     }
   },
@@ -543,19 +544,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/loukakoufamily.gr.ico",
     "slug": "loukakou-family",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4180,
     "timeDay": 3337,
     "timeWeek": 3817,
     "timeMonth": 4124,
     "timeYear": 4180,
-    "dailyMinutesDown": {
-      "2023-05-29": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail Delivery",
@@ -563,19 +562,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maildelivery.gr.ico",
     "slug": "mail-delivery",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 581,
     "timeWeek": 619,
     "timeMonth": 654,
     "timeYear": 676,
-    "dailyMinutesDown": {
-      "2023-05-29": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mamos",
@@ -583,18 +580,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mamos.gr.ico",
     "slug": "mamos",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.93%",
     "time": 6031,
     "timeDay": 3744,
     "timeWeek": 4862,
     "timeMonth": 5712,
     "timeYear": 6031,
     "dailyMinutesDown": {
-      "2023-05-29": 14,
       "2023-05-03": 46
     }
   },
@@ -604,19 +600,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miliesilias.gr.ico",
     "slug": "milies-ilia-s",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 905,
     "timeDay": 770,
     "timeWeek": 872,
     "timeMonth": 871,
     "timeYear": 905,
-    "dailyMinutesDown": {
-      "2023-05-29": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MPD",
@@ -624,19 +618,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mpd.gr.ico",
     "slug": "mpd",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2755,
     "timeDay": 2020,
     "timeWeek": 2736,
     "timeMonth": 2729,
     "timeYear": 2755,
-    "dailyMinutesDown": {
-      "2023-05-29": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Myritmeester",
@@ -664,19 +656,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nbafanclub.gr.ico",
     "slug": "nba-fan-club",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3704,
     "timeDay": 1970,
     "timeWeek": 2966,
     "timeMonth": 3186,
     "timeYear": 3704,
-    "dailyMinutesDown": {
-      "2023-05-29": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "oseven",
@@ -846,11 +836,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.priority.com.gr.ico",
     "slug": "priority-greece",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 658,
     "timeDay": 709,
     "timeWeek": 687,
@@ -1095,7 +1085,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-29": 178,
+      "2023-05-29": 606,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
@@ -1207,17 +1197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.alfabeer.gr.ico",
     "slug": "alfa-beer",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3665,
-    "timeDay": 3404,
-    "timeWeek": 4144,
-    "timeMonth": 3814,
-    "timeYear": 3665,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 3651,
+    "timeDay": 3054,
+    "timeWeek": 4010,
+    "timeMonth": 3786,
+    "timeYear": 3651,
+    "dailyMinutesDown": {
+      "2023-05-29": 15
+    }
   },
   {
     "name": "Illy Iper Apartment",
@@ -1226,16 +1218,18 @@
     "slug": "illy-iper-apartment",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1990,
-    "timeDay": 1559,
-    "timeWeek": 2153,
-    "timeMonth": 2067,
-    "timeYear": 1990,
-    "dailyMinutesDown": {}
+    "time": 1964,
+    "timeDay": 1222,
+    "timeWeek": 1975,
+    "timeMonth": 2019,
+    "timeYear": 1964,
+    "dailyMinutesDown": {
+      "2023-05-29": 2
+    }
   },
   {
     "name": "Priority",
