@@ -1,7 +1,7 @@
 url: https://afis-kinigoi.gr
-status: up
-code: 200
-responseTime: 7329
-lastUpdated: 2023-06-11T23:17:27.922Z
+status: down
+code: 500
+responseTime: 1084
+lastUpdated: 2023-06-12T14:28:46.923Z
 startTime: Mon Apr 10 2023 14:42:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
