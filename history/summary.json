@@ -1078,19 +1078,19 @@
     "url": "https://veritasmtc.com",
     "icon": "https://icons.duckduckgo.com/ip3/veritasmtc.com.ico",
     "slug": "veritas-mtc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4677,
-    "timeDay": 3267,
-    "timeWeek": 5177,
-    "timeMonth": 5565,
-    "timeYear": 4677,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 4657,
+    "timeDay": 3211,
+    "timeWeek": 4888,
+    "timeMonth": 5487,
+    "timeYear": 4657,
     "dailyMinutesDown": {
-      "2023-06-17": 1
+      "2023-06-17": 13
     }
   },
   {
@@ -1110,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-17": 552,
+      "2023-06-17": 565,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
