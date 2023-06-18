@@ -536,11 +536,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/letsplace.gr.ico",
     "slug": "let-s-place",
     "status": "up",
-    "uptime": "94.36%",
+    "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.32%",
-    "uptimeYear": "94.36%",
+    "uptimeYear": "94.37%",
     "time": 2277,
     "timeDay": 2218,
     "timeWeek": 2580,
@@ -1078,10 +1078,10 @@
     "url": "https://veritasmtc.com",
     "icon": "https://icons.duckduckgo.com/ip3/veritasmtc.com.ico",
     "slug": "veritas-mtc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4622,
@@ -1089,7 +1089,9 @@
     "timeWeek": 4666,
     "timeMonth": 5442,
     "timeYear": 4622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-18": 1
+    }
   },
   {
     "name": "Veritas MTC Philippines",
@@ -1108,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 82,
+      "2023-06-18": 164,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
