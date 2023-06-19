@@ -932,19 +932,19 @@
     "url": "https://southbridge-partners.com",
     "icon": "https://icons.duckduckgo.com/ip3/southbridge-partners.com.ico",
     "slug": "southbridge-partners",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.93%",
-    "time": 4169,
-    "timeDay": 1678,
-    "timeWeek": 2787,
-    "timeMonth": 3988,
-    "timeYear": 4169,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.89%",
+    "time": 4142,
+    "timeDay": 1862,
+    "timeWeek": 2705,
+    "timeMonth": 3929,
+    "timeYear": 4142,
     "dailyMinutesDown": {
-      "2023-06-19": 72
+      "2023-06-19": 110
     }
   },
   {
@@ -1112,7 +1112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-19": 73,
+      "2023-06-19": 112,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
