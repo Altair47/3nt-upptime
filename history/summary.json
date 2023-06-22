@@ -1113,7 +1113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-22": 381,
+      "2023-06-22": 395,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -1212,19 +1212,19 @@
     "url": "https://vmg.gr",
     "icon": "https://icons.duckduckgo.com/ip3/vmg.gr.ico",
     "slug": "vmg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3513,
-    "timeDay": 1933,
-    "timeWeek": 2359,
-    "timeMonth": 3420,
-    "timeYear": 3513,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 3490,
+    "timeDay": 1805,
+    "timeWeek": 2291,
+    "timeMonth": 3367,
+    "timeYear": 3490,
     "dailyMinutesDown": {
-      "2023-06-22": 1
+      "2023-06-22": 14
     }
   },
   {
