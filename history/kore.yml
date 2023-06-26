@@ -1,7 +1,7 @@
 url: https://kore.gr
-status: up
-code: 200
-responseTime: 7823
-lastUpdated: 2023-06-25T23:22:08.444Z
+status: down
+code: 500
+responseTime: 1419
+lastUpdated: 2023-06-26T22:47:32.426Z
 startTime: Mon Apr 10 2023 14:45:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
