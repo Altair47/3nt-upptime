@@ -5,8 +5,6 @@ repo: 3nt-upptime # The name of this repository
 sites:
   - name: 3nitas
     url: https://3nitas.com
-  - name: 3ntxp
-    url: https://3ntxp.com
   - name: Afis
     url: https://afis.gr
   - name: Afis Kinigoi
@@ -35,30 +33,22 @@ sites:
     url: https://epsilonhellas.com.ua
   - name: Epsilon Odessa
     url: https://epsilonodessa.com.ua
-  - name: 3nitas eShop
-    url: https://eshop.threenitas.com
   - name: Expedite
     url: https://expedite.gr
   - name: Fischer Beer
     url: https://fischerbeer.gr
   - name: Gerofinikas Boutique Hotel
     url: https://gerofinikasboutiquehotel.com
-  - name: NBA Greece
-    url: https://greece.id.nba.com
   - name: Hazmat
     url: https://hazmat.gr
   - name: IGI Poseidon
     url: https://igi-poseidon.com
-  - name: Illy Iper Apartment
-    url: https://illyiperapartment.gr
   - name: Karelia
     url: https://karelia.gr
   - name: Kore
     url: https://kore.gr
   - name: Let's Place
     url: https://letsplace.gr
-  - name: Loukakou Family
-    url: https://loukakoufamily.gr
   - name: Mail Delivery
     url: https://maildelivery.gr
   - name: Mamos
@@ -69,8 +59,6 @@ sites:
     url: https://mpd.gr
   - name: Myritmeester
     url: https://myritmeester.nl
-  - name: NBA Fan Club
-    url: https://nbafanclub.gr
   - name: oseven
     url: https://oseven.io
   - name: OTE Academy
@@ -83,8 +71,6 @@ sites:
     url: https://pastelyachting.gr
   - name: PMI Projects
     url: https://pmiprojects.gr
-  - name: Primo Gusto EU
-    url: https://primogusto.eu
   - name: Primo Gusto
     url: https://primogusto.gr
   - name: Priority Cyprus 
@@ -125,14 +111,13 @@ sites:
     url: https://whitecoast.gr
   - name: Alfa Beer
     url: https://www.alfabeer.gr
-  - name: Illy Iper Apartment
-    url: https://www.illyiperapartment.gr
   - name: Priority
     url: https://www.priority.com.gr
   - name: Xriselia
     url: https://xriselia.gr
   - name: Zerris
     url: https://zerris.gr
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
