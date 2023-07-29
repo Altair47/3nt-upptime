@@ -1,7 +1,7 @@
 url: https://epsilonhellas.com.ua
-status: up
-code: 200
-responseTime: 3812
-lastUpdated: 2023-07-28T23:16:52.522Z
+status: down
+code: 503
+responseTime: 10607
+lastUpdated: 2023-07-29T13:00:05.175Z
 startTime: Mon Apr 10 2023 14:44:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
