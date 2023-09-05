@@ -1,7 +1,7 @@
 url: https://threenitas.com
-status: up
-code: 200
-responseTime: 77
-lastUpdated: 2023-09-05T11:55:59.450Z
+status: down
+code: 500
+responseTime: 265
+lastUpdated: 2023-09-05T12:56:51.524Z
 startTime: 2023-04-10T14:47:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
