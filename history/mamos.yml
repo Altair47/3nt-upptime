@@ -1,7 +1,7 @@
 url: https://mamos.gr
-status: up
-code: 200
-responseTime: 6562
-lastUpdated: 2023-09-06T23:17:14.816Z
+status: down
+code: 500
+responseTime: 1153
+lastUpdated: 2023-09-07T11:57:27.875Z
 startTime: 2023-04-10T14:45:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
