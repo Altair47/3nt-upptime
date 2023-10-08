@@ -43,8 +43,6 @@ sites:
     url: https://hazmat.gr
   - name: IGI Poseidon
     url: https://igi-poseidon.com
-  - name: Karelia
-    url: https://karelia.gr
   - name: Kore
     url: https://kore.gr
   - name: Let's Place
@@ -69,8 +67,6 @@ sites:
     url: https://paradeigmatos-harin.gr
   - name: Pastel Yachting
     url: https://pastelyachting.gr
-  - name: PMI Projects
-    url: https://pmiprojects.gr
   - name: Primo Gusto
     url: https://primogusto.gr
   - name: Priority Cyprus 
@@ -89,8 +85,6 @@ sites:
     url: https://thecirclegroupapp.com
   - name: The Jungle Ad
     url: https://thejunglead.com
-  - name: The Shipping Project
-    url: https://theshippingproject.com
   - name: Three Cents
     url: https://threecents.com
   - name: 3Nitas
@@ -101,10 +95,6 @@ sites:
     url: https://tothama.gr
   - name: Veritas MTC
     url: https://veritasmtc.com
-  - name: Veritas MTC Philippines
-    url: https://veritasmtc.com.ph
-  - name: VIVANOVICH
-    url: https://vivanovich.com.ua
   - name: VMG
     url: https://vmg.gr
   - name: White Coast
