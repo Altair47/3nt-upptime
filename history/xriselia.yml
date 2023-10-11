@@ -1,7 +1,7 @@
 url: https://xriselia.gr
-status: up
-code: 200
-responseTime: 7564
-lastUpdated: 2023-10-10T23:19:22.638Z
+status: down
+code: 500
+responseTime: 1506
+lastUpdated: 2023-10-11T08:32:27.081Z
 startTime: 2023-04-10T14:47:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
