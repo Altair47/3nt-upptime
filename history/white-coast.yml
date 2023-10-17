@@ -1,7 +1,7 @@
 url: https://whitecoast.gr
-status: up
-code: 200
-responseTime: 1467
-lastUpdated: 2023-10-16T23:18:58.487Z
+status: down
+code: 500
+responseTime: 1561
+lastUpdated: 2023-10-17T06:34:44.500Z
 startTime: 2023-04-10T14:47:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
