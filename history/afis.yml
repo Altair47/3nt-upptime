@@ -1,7 +1,7 @@
 url: https://afis.gr
-status: up
-code: 200
-responseTime: 4633
-lastUpdated: 2023-10-31T23:16:23.124Z
+status: down
+code: 500
+responseTime: 718
+lastUpdated: 2023-11-01T14:47:10.883Z
 startTime: 2023-04-10T14:42:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
