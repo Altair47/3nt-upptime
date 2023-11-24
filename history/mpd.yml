@@ -1,7 +1,7 @@
 url: https://mpd.gr
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2023-11-23T23:19:13.578Z
+status: down
+code: 523
+responseTime: 2504
+lastUpdated: 2023-11-24T19:08:49.284Z
 startTime: 2023-04-10T14:46:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
