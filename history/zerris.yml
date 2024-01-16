@@ -1,7 +1,7 @@
 url: https://zerris.gr
-status: up
-code: 200
-responseTime: 3340
-lastUpdated: 2024-01-15T23:20:01.002Z
+status: down
+code: 500
+responseTime: 5387
+lastUpdated: 2024-01-16T16:59:00.401Z
 startTime: 2023-04-10T14:47:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
