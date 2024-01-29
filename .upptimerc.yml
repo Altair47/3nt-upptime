@@ -105,8 +105,6 @@ sites:
     url: https://www.priority.com.gr
   - name: Xriselia
     url: https://xriselia.gr
-  - name: Zerris
-    url: https://zerris.gr
 
 
 status-website:
