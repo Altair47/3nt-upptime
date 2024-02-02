@@ -1252,7 +1252,7 @@
     "timeMonth": 0,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-02-02": 1094,
+      "2024-02-02": 1113,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -1417,7 +1417,7 @@
     "timeMonth": 785,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2024-02-02": 1094,
+      "2024-02-02": 1113,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -1564,19 +1564,19 @@
     "url": "https://veritasmtc.com",
     "icon": "https://icons.duckduckgo.com/ip3/veritasmtc.com.ico",
     "slug": "veritas-mtc",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "36.56%",
-    "uptimeWeek": "86.74%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "37.26%",
+    "uptimeWeek": "86.72%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.23%",
     "time": 4626,
     "timeDay": 11449,
     "timeWeek": 7959,
     "timeMonth": 5603,
     "timeYear": 4626,
     "dailyMinutesDown": {
-      "2024-02-02": 672,
+      "2024-02-02": 674,
       "2024-02-01": 487,
       "2024-01-31": 159,
       "2024-01-30": 19,
@@ -1640,7 +1640,7 @@
       "2023-07-06": 89,
       "2023-07-05": 17,
       "2023-07-04": 117,
-      "2023-07-03": 87
+      "2023-07-03": 28
     }
   },
   {
