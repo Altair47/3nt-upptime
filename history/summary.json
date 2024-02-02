@@ -81,9 +81,9 @@
     "slug": "afis-kinigoi",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.00%",
     "time": 7562,
     "timeDay": 9073,
@@ -91,7 +91,6 @@
     "timeMonth": 8562,
     "timeYear": 7562,
     "dailyMinutesDown": {
-      "2024-02-02": 12,
       "2023-11-15": 128,
       "2023-11-01": 35,
       "2023-10-31": 25,
@@ -1253,7 +1252,7 @@
     "timeMonth": 0,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-02-02": 598,
+      "2024-02-02": 622,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -1418,7 +1417,7 @@
     "timeMonth": 785,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2024-02-02": 598,
+      "2024-02-02": 622,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -1565,10 +1564,10 @@
     "url": "https://veritasmtc.com",
     "icon": "https://icons.duckduckgo.com/ip3/veritasmtc.com.ico",
     "slug": "veritas-mtc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "42.00%",
-    "uptimeWeek": "89.30%",
+    "uptimeDay": "41.90%",
+    "uptimeWeek": "89.28%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "98.23%",
     "time": 4490,
@@ -1577,7 +1576,7 @@
     "timeMonth": 4501,
     "timeYear": 4490,
     "dailyMinutesDown": {
-      "2024-02-02": 414,
+      "2024-02-02": 415,
       "2024-02-01": 487,
       "2024-01-31": 159,
       "2024-01-30": 19,
@@ -1643,8 +1642,7 @@
       "2023-07-04": 117,
       "2023-07-03": 87,
       "2023-07-02": 86,
-      "2023-07-01": 91,
-      "2023-06-27": 22
+      "2023-07-01": 91
     }
   },
   {
@@ -1677,7 +1675,7 @@
     "slug": "white-coast",
     "status": "up",
     "uptime": "82.40%",
-    "uptimeDay": "96.54%",
+    "uptimeDay": "98.18%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "82.40%",
