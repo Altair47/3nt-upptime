@@ -5,6 +5,8 @@ repo: 3nt-upptime # The name of this repository
 sites:
   - name: 3nitas
     url: https://3nitas.com
+  - name: Ritmeester
+    url: https://myritmeester.nl
   - name: Afis
     url: https://afis.gr
   - name: Afis Kinigoi
