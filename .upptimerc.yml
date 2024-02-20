@@ -7,8 +7,6 @@ sites:
     url: https://3nitas.com
   - name: Ritmeester
     url: https://myritmeester.nl
-  - name: Afis
-    url: https://afis.gr
   - name: Afis Kinigoi
     url: https://afis-kinigoi.gr
   - name: Alfa Beer
@@ -53,8 +51,6 @@ sites:
     url: https://maildelivery.gr
   - name: Mamos
     url: https://mamos.gr
-  - name: Milies Ilia's
-    url: https://miliesilias.gr
   - name: MPD
     url: https://mpd.gr
   - name: Myritmeester
@@ -69,8 +65,6 @@ sites:
     url: https://paradeigmatos-harin.gr
   - name: Pastel Yachting
     url: https://pastelyachting.gr
-  - name: Primo Gusto
-    url: https://primogusto.gr
   - name: Priority Cyprus 
     url: https://www.priority.com.cy
   - name: Priority Greece 
