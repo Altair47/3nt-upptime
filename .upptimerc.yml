@@ -21,20 +21,12 @@ sites:
     url: https://blinqme.com
   - name: Breast Imaging
     url: https://breastimaging.gr
-  - name: Campari Passion
-    url: https://camparipassion.gr
-  - name: Elekap
-    url: https://elekap.org
-  - name: EOS Systems
-    url: https://eos-systems.gr
   - name: Epsilon Hellas
     url: https://epsilonhellas.com
   - name: Epsilon Hellas Ukraine
     url: https://epsilonhellas.com.ua
   - name: Epsilon Odessa
     url: https://epsilonodessa.com.ua
-  - name: Expedite
-    url: https://expedite.gr
   - name: Fischer Beer
     url: https://fischerbeer.gr
   - name: Gerofinikas Boutique Hotel
@@ -47,12 +39,8 @@ sites:
     url: https://kore.gr
   - name: Let's Place
     url: https://letsplace.gr
-  - name: Mail Delivery
-    url: https://maildelivery.gr
   - name: Mamos
     url: https://mamos.gr
-  - name: MPD
-    url: https://mpd.gr
   - name: Myritmeester
     url: https://myritmeester.nl
   - name: oseven
@@ -61,16 +49,12 @@ sites:
     url: https://oteacademy.gr
   - name: Papadopoulou
     url: https://papadopoulou.gr
-  - name: Paradeigmatos Harin
-    url: https://paradeigmatos-harin.gr
   - name: Pastel Yachting
     url: https://pastelyachting.gr
   - name: Priority Cyprus 
     url: https://www.priority.com.cy
   - name: Priority Greece 
     url: https://www.priority.com.gr
-  - name: Reach-Cheree
-    url: https://reach-cheree.gr
   - name: Samaras Mining
     url: https://samarasmining.com
   - name: Sanola
