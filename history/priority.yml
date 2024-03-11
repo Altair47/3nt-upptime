@@ -1,7 +1,7 @@
 url: https://www.priority.com.gr
-status: up
-code: 200
-responseTime: 854
-lastUpdated: 2024-03-11T23:19:05.042Z
+status: down
+code: 500
+responseTime: 194
+lastUpdated: 2024-03-11T23:32:27.300Z
 startTime: 2023-04-10T14:47:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
