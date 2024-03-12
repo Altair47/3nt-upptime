@@ -51,10 +51,6 @@ sites:
     url: https://papadopoulou.gr
   - name: Pastel Yachting
     url: https://pastelyachting.gr
-  - name: Priority Cyprus 
-    url: https://www.priority.com.cy
-  - name: Priority Greece 
-    url: https://www.priority.com.gr
   - name: Samaras Mining
     url: https://samarasmining.com
   - name: Sanola
@@ -73,8 +69,6 @@ sites:
     url: https://tothama.gr
   - name: VMG
     url: https://vmg.gr
-  - name: Priority
-    url: https://www.priority.com.gr
   - name: Xriselia
     url: https://xriselia.gr
 
