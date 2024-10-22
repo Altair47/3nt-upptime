@@ -1,7 +1,7 @@
 url: https://fischerbeer.gr
-status: up
-code: 200
-responseTime: 4699
-lastUpdated: 2024-10-21T23:21:51.523Z
+status: down
+code: 500
+responseTime: 1213
+lastUpdated: 2024-10-22T12:06:01.103Z
 startTime: 2023-04-10T14:44:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
