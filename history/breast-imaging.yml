@@ -1,7 +1,7 @@
 url: https://breastimaging.gr
-status: up
-code: 200
-responseTime: 5353
-lastUpdated: 2024-10-22T23:22:47.121Z
+status: down
+code: 500
+responseTime: 21017
+lastUpdated: 2024-10-23T17:32:13.496Z
 startTime: 2023-04-10T14:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
